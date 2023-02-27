@@ -1,0 +1,1 @@
+<?php //selense is Golden
